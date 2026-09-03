@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository has been archived and is no longer maintained.  
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.  
+> It should not be used in production systems.
 # Reunite - iOS #
 
 Reunite is a post-disaster family reunification tool. The app can be used for reporting and searching missing or found person information within those disaster events. The app uses a [People Locator](https://github.com/LostPersonFinder/people-locator) server as a data-store/backend.
